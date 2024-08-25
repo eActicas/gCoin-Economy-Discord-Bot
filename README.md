@@ -1,8 +1,8 @@
-👷 **Requirements:**
-Node.js
-A MongoDB database
-🧹 Preparing the enviroment
-Clone this git repository somewhere in your OS, then open the cloned folder with a terminal of your choice and run `npm i`
+## 👷 Requirements:
+- Node.js
+- A MongoDB database
+- 🧹 Preparing the enviroment
+- Clone this git repository somewhere in your OS, then open the cloned folder with a terminal of your choice and run `npm i`
 
 ---
 
