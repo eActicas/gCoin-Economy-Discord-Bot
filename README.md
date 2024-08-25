@@ -25,8 +25,8 @@ In addition, you will also need to remove the .example from the .env.example fil
 
 - "TOKEN": your discord bot token
 - "MONGODB_URI": your mongodb connection uri
-- "Authorization": this is only required if your bot is in top.gg and you plan to use the /vote command, in this case you go to https://top.gg/bot/:yourbotid/webhooks and put the token here.
+- "Authorization": this is only required if your bot is in top.gg and you plan to use the `/vote` command, in this case you go to https://top.gg/bot/:yourbotid/webhooks and put the token here.
 
 ---
 
-If everything was done correctly, you just need to open a terminal on the folder and run npm start and the bot should be up and running!
+If everything was done correctly, you just need to open a terminal on the folder and run `npm start` and the bot should be up and running!
